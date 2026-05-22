@@ -1,6 +1,6 @@
 # CLAUDE.md
 
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+Este archivo proporciona orientación a Claude Code (claude.ai/code) cuando trabaja con el código de este repositorio.
 
 ## Propósito
 
@@ -79,6 +79,19 @@ docker compose exec php php spark db:seed
 **React/JS:** ESLint + Prettier. Componentes funcionales con hooks.
 
 **Git:** mensajes de commit en español. Ramas en inglés (`feature/`, `fix/`, `hotfix/`).
+
+## Documentación
+
+| Archivo | Contenido |
+|---|---|
+| [docs/SETUP.md](docs/SETUP.md) | Configuración del entorno local |
+| [docs/ARQUITECTURA.md](docs/ARQUITECTURA.md) | Arquitectura y estructura de carpetas |
+| [docs/API.md](docs/API.md) | Endpoints de la API REST |
+| [docs/BASE_DE_DATOS.md](docs/BASE_DE_DATOS.md) | Esquema de base de datos y migraciones |
+| [docs/DESPLIEGUE.md](docs/DESPLIEGUE.md) | Guía de despliegue en OVH / AWS |
+| [docs/DISCOVERIES.md](docs/DISCOVERIES.md) | Lecciones aprendidas |
+| [planning/ROADMAP.md](planning/ROADMAP.md) | Hoja de ruta del proyecto |
+| [planning/TAREAS.md](planning/TAREAS.md) | Tareas pendientes y en progreso |
 
 ## Planificación
 
